@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd></dd>
+  <dt>Milk</dt>
+  <dd></dd>
+</dl>
+
+</body>
+</html>
